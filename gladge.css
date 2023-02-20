@@ -1,0 +1,21 @@
+body {
+    min-height: 100vh;
+    background-image: url(https://cdn2.outdoorphotographer.com/assignments/587048/assignment-338-beaches-shores-and-coastlines-jgophotography-0-1532494906.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    width:480px;
+    height:480px;
+    background: rgba(0,0,0,0.8);
+    backdrop-filter:blur(10px);
+    color:white;
+    font-size:70px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
